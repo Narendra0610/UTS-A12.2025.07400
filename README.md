@@ -6,6 +6,9 @@ Landing page tentang dunia kopi: jenis kopi, cara menyeduh, kopi dari Nusantara,
 | Nama | Narendra Heryan Syahputra |
 | NIM | A12.2025.07400 |
 
+## Live
+https://narendra0610.github.io/UTS-A12.2025.07400/
+
 ## Fitur
 
 - **Jenis kopi**: kartu Arabika, Robusta, dan Liberika, lengkap dengan pemilih selera yang merekomendasikan jenis kopi.
